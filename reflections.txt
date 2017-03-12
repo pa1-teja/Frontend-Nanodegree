@@ -4,14 +4,14 @@ about web development here.
 Answer the following questions:
  
  * What new skills have you learned?
-translating the UI mocks into HTML code
+       translating the UI mocks into HTML code
   
   * What has been easy?
-
-putting the tags.
+       putting the tags.
+       
   * What has been difficult?
-exploring the tags and knowing which one is better to use.
+       exploring the tags and knowing which one is better to use.
 
   * How have you used the problem solving strategies from the first project to 
 overcome challenges so far?
-pretty much.
+        yes.
